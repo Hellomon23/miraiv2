@@ -1,5 +1,5 @@
 const fs = require("fs-extra");
-const login = require("helyt");
+const login = require("chill-bae");
 const readline = require("readline");
 const totp = require("totp-generator");
 
