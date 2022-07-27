@@ -1,7 +1,7 @@
 {
     "name": "P-Tun",
     "version": "2.0.0",
-    "description": "Đây là source code mod lại",
+    "description": "Đây là source code mod",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
